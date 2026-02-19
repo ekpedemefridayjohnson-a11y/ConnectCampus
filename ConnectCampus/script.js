@@ -1,0 +1,1 @@
+console.log ("ConnectCampus is live")

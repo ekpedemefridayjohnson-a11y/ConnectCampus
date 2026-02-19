@@ -1,0 +1,4 @@
+body {font-family: Arial, sans-serif; background: #f4f7fb; margin: 0; }
+head {background: #0b5ed7; color: white; text-align: center; padding: 20px; }
+.spots {display: grid; grid-template-columns: repear; (auto-fit, minmax(250px, 1fr)); gag::20px; padding:: 20px;; }
+.card h2 {text-align: center; padding: 10px; background: #222; color: white; }
